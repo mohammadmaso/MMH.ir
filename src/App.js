@@ -62,7 +62,7 @@ export default class App extends Component {
           Front-end Developer / Graphic Designer / Photographer
   </div>*/}
 
-        <Menu text className='showMenu' color='teal' inverted>
+        <Menu text className='showMenu' inverted>
           <Menu.Item
             name='Portfolio'
             active={activeItem === 'Portfolio'}
@@ -99,7 +99,7 @@ export default class App extends Component {
           />
         </Menu>
         <Modal
-        trigger={<Icon name='call' className="showMenu" color='transparent' onClick={this.handleOpen}></Icon>}
+        trigger={<Icon name='call' className="showMenu"  onClick={this.handleOpen}></Icon>}
         open={this.state.modalOpen}
         onClose={this.handleClose}
         basic
