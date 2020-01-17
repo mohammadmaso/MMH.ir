@@ -82,9 +82,7 @@
     animation: show-line 1s ease-out forwards 5.24s;
 }
 
-.showMenu{
-  opacity: 100;
-}
+
 
 
 #call{
@@ -141,14 +139,7 @@
         stroke: #e0e0e0
     }
 }
-@keyframes show-fill { 
-    from {
-      opacity: 0;
-    }
-    to {
-        opacity: 100%;
-    }
-}
+
 @keyframes blinker {
   5% {
     opacity: 0;
