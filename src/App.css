@@ -83,18 +83,11 @@
 }
 
 .showMenu{
-  opacity: 0;
-  animation:  show-fill 1s ease-in-out forwards 5.4s;
+  opacity: 100;
   
- 
 
 }
-#showMenu i:hover{
-  color: #283863;
-  cursor: pointer;
-  transition: 0.3s;
-  
-}
+
 
 #call{
   position: absolute;
