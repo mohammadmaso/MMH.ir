@@ -1,9 +1,7 @@
 {
-  "short_name": "Mohammad MAso",
-  "name": "Blog",
-  "icons": [
-    
-  ],
+  "short_name": "Mohammad Maso",
+  "name": "Personal Site",
+  "icons": [],
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
