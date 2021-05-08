@@ -16,7 +16,7 @@ function App() {
               Mohammad Masoudie
             </h1>
             <h4 class="subtitle is-size-7-mobile">
-              Computer engineering - Financial engineering
+              Computer engineering
             </h4>
             <div>
               
@@ -25,7 +25,7 @@ function App() {
               <a href='tel:+989380374660'><Icon.PhoneCall/></a>
               <a href='mailto:mohammadmasoudie@gmail.com'><Icon.AtSign/></a>
               <a href='https://virgool.io/@mohammadmaso'><Icon.Edit2/></a>
-              <a href='https://mohammadmaso.ir'><Icon.FileText/></a>
+              <a href='../public/Mohammad_Masoudie_s_CV.pdf'><Icon.FileText/></a>
             </Space>
             </div>
           </div>
