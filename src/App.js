@@ -25,7 +25,7 @@ function App() {
               <a href='tel:+989380374660'><Icon.PhoneCall/></a>
               <a href='mailto:mohammadmasoudie@gmail.com'><Icon.AtSign/></a>
               <a href='https://virgool.io/@mohammadmaso'><Icon.Edit2/></a>
-              <a href='../public/Mohammad_Masoudie_s_CV.pdf'><Icon.FileText/></a>
+              <a href='https://github.com/mohammadmaso/MMH.ir/raw/master/public/Mohammad_Masoudie_s_CV.pdf'><Icon.FileText/></a>
             </Space>
             </div>
           </div>
