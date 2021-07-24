@@ -16,7 +16,7 @@ function App() {
               Mohammad Masoudie
             </h1>
             <h4 class="subtitle is-size-7-mobile">
-              Computer engineering
+              Software engineer 
             </h4>
             <div>
               
